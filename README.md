@@ -1,9 +1,16 @@
 # Learn JSTS + Playwright 4x
 
-This repository contains a set of JavaScript and TypeScript learning examples designed to practice core language concepts and browser automation with Playwright.
+This repository is a practical learning project focused on JavaScript fundamentals and browser automation with Playwright.
 
-The project includes sample scripts for experimentation, exercises, and small automation examples to help build practical JavaScript skills.
+It contains examples, exercises, and small scripts covering core JavaScript concepts such as variables, literals, null and undefined behavior, numbers, and other language basics. The project is intended for hands-on practice and experimentation while learning modern web automation workflows.
 
-## Purpose
+## Project goals
 
-The goal is to learn JavaScript fundamentals, explore TypeScript basics, and experiment with Playwright for end-to-end web testing and automation.
+- Learn JavaScript and TypeScript basics through working examples
+- Practice coding concepts with small reusable scripts
+- Explore browser automation using Playwright
+- Build a foundation for more advanced front-end and testing workflows
+
+## Contents
+
+This repo includes a collection of JavaScript learning files and examples, organized by topic, to support step-by-step study and experimentation.
